@@ -1,25 +1,39 @@
 ### Hi there 👋
 
-<!--
-**filipemoreiralemos/FilipeMoreiraLemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ### 
- Hi, I’m Filipe Moreira 
-I’m interested in HTML, CSS, JavaScript, React, TypeScript, Vue.js
-I’m looking to collaborate on Front-end
-How to reach me [LinkedIn] (https://www.linkedin.com/in/filipe-moreira-a2268216a/)  
+Sou Filipe Lemos.
 
+Me interesso por Tecnologia e linguagem de programação. Conhecimento  HTML, CSS, JavaScript, React, TypeScript, Vue.js
+Procuro colaborar no Front-end ajudar pessoas com solucoes inteligentes.
+
+Entre em contato comigo, vou adorar te ajudar com seus projetos. Para começarmos é bem fácil, a primeira coisa a fazer é me contar um pouco sobre sua ideia, necessidade. Você pode me enviar uma mensagem.
+
+Selecionei alguns de meus trabalhos para mostrar a vocês algumas ideias e soluções criadas  em projetos pessoais, acadêmicos e profissionais. 
+
+Criação de interfaces gráficas para sites institucionais, landing pages e e-commerces.
+
+
+
+[EN]
+
+I'm Filipe Lemos.
+
+I am interested in Technology and programming language. Knowledge of HTML, CSS, JavaScript, React, TypeScript, Vue.js
+I try to collaborate on the Front-end to help people with smart solutions.
+
+Contact me, I will love to help you with your projects. It's very easy to get started, the first thing to do is tell me a little about your idea, need. You can send me a message.
+
+I selected some of my works to show you some ideas and solutions created in personal, academic and professional projects.
+
+Creation of graphic interfaces for institutional websites, landing pages and e-commerces.
+
+
+
+<h3>
+-[LinkedIn] (https://www.linkedin.com/in/filipe-moreira-a2268216a/)  
+</h3>
 
 
 <h2>Projects</h2>
