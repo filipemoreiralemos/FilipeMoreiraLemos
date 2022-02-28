@@ -33,62 +33,63 @@ Creation of graphic interfaces for institutional websites, landing pages and e-c
 
 
 
-<h3>
--[LinkedIn] (https://www.linkedin.com/in/filipe-moreira-a2268216a/)  
-</h3>
+<h1>
+-LinkedIn
+  
+</h1>
+
+<p> https://www.linkedin.com/in/filipe-moreira-lemos-a2268216a/</p>
+
+<h1>Projects</h1>
+
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page1.png" alt="Landing Page ">
+
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page2.png" alt="Landing Page">
 
 
-<h2>Projects</h2>
-
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page1.png" alt="Girl in a jacket">
-
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page2.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page10.png" alt="Landing Page">
 
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page10.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page11.png" alt="Landing Page">
 
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page11.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page12.png" alt="Landing Page">
 
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page12.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page13.png" alt="Landing Page">
 
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page13.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page14.png" alt="Landing Page">
 
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page14.png" alt="Girl in a jacket">
-
-
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page15.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page15.png" alt="Landing Page">
 
 
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page16.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page16.png" alt="Landing Page">
 
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page17.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page17.png" alt="Landing Page">
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page18.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page18.png" alt="Landing Page">
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page19.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page19.png" alt="Landing Page">
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page20.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page20.png" alt="Landing Page">
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page21.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page21.png" alt="Landing Page">
 
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page4.png" alt="Landing Page">
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page4.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page5.png" alt="Landing Page">
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page5.png" alt="Girl in a jacket">
-
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page6.png" alt="Girl in a jacket">
-
-
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page7.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page6.png" alt="Landing Page">
 
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page8.png" alt="Girl in a jacket">
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page7.png" alt="Landing Page">
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page2.png" alt="Girl in a jacket">
+
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page8.png" alt="Landing Page">
+
+<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page2.png" alt="Landing Page">
 
