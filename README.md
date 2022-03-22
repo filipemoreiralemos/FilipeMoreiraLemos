@@ -56,7 +56,7 @@ Creation of graphic interfaces for institutional websites, landing pages and e-c
 <img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page12.png" alt="Landing Page">
 
 
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page13.png" alt="Landing Page">
+
 
 
 <img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page14.png" alt="Landing Page">
