@@ -33,12 +33,6 @@ Creation of graphic interfaces for institutional websites, landing pages and e-c
 
 
 
-<h1>
--LinkedIn
-  
-</h1>
-
-<p> https://www.linkedin.com/in/filipe-moreira-lemos-a2268216a/</p>
 
 <h1>Projects</h1>
 
