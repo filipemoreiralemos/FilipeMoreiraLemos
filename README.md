@@ -7,7 +7,7 @@
 ### 
 Sou Filipe Lemos.
 
-Me interesso por Tecnologia e linguagem de programação. Conhecimento  HTML, CSS, JavaScript, React, TypeScript.
+Me interesso por Tecnologia e linguagem de programação.
 Procuro colaborar no Front-end ajudar pessoas com solucoes inteligentes.
 
 Entre em contato comigo, vou adorar te ajudar com seus projetos. Para começarmos é bem fácil, a primeira coisa a fazer é me contar um pouco sobre sua ideia, necessidade. Você pode me enviar uma mensagem.
