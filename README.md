@@ -22,8 +22,7 @@ Criação de interfaces gráficas para sites institucionais, landing pages e e-c
 
 I'm Filipe Lemos.
 
-I am interested in Technology and programming language. Knowledge of HTML, CSS, JavaScript, React, TypeScript, Vue.js
-I try to collaborate on the Front-end to help people with smart solutions.
+I am interested in Technology and programming language. 
 
 Contact me, I will love to help you with your projects. It's very easy to get started, the first thing to do is tell me a little about your idea, need. You can send me a message.
 
