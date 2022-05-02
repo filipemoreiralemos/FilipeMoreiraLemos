@@ -10,7 +10,7 @@ Sou Filipe Lemos.
 Me interesso por Tecnologia e linguagem de programação.
 Procuro colaborar no Front-end ajudar pessoas com solucoes inteligentes.
 
-Entre em contato comigo, vou adorar te ajudar com seus projetos. Para começarmos é bem fácil, a primeira coisa a fazer é me contar um pouco sobre sua ideia, necessidade. Você pode me enviar uma mensagem.
+Entre em contato comigo. Para começarmos é bem fácil, a primeira coisa a fazer é me contar um pouco sobre sua ideia ou necessidade. Você pode me enviar uma mensagem.
 
 Selecionei alguns de meus trabalhos para mostrar a vocês algumas ideias e soluções criadas  em projetos pessoais, acadêmicos e profissionais. 
 
@@ -60,19 +60,6 @@ Creation of graphic interfaces for institutional websites, landing pages and e-c
 
 
 <img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page16.png" alt="Landing Page">
-
-
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page17.png" alt="Landing Page">
-
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page18.png" alt="Landing Page">
-
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page19.png" alt="Landing Page">
-
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page20.png" alt="Landing Page">
-
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page21.png" alt="Landing Page">
-
-<img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page4.png" alt="Landing Page">
 
 <img src="https://github.com/filipemoreiralemos/FilipeMoreiraLemos/blob/main/page5.png" alt="Landing Page">
 
