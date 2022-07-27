@@ -7,15 +7,10 @@
 Sou Filipe Lemos.
 
 Me interesso por Tecnologia e linguagem de programação.
-Procuro colaborar no Front-end .
+Procuro colaborar no Front-end . Estudante Fullstack .
 
 
 
-[EN]
-
-I'm Filipe Lemos.
-
-I am interested in Technology and programming language. 
 
 
 
